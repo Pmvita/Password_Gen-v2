@@ -93,4 +93,4 @@ To add screenshots:
 
 Pierre Mvita - [LinkedIn](https://www.linkedin.com/in/pierre-mvita/)
 
-Project Link: [https://github.com/yourusername/password-generator-app](https://github.com/yourusername/password-generator-app)
+Project Link: [Password_Gen-v2](https://github.com/Pmvita/Password_Gen-v2.git)
