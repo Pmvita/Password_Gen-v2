@@ -7,9 +7,11 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "clean": "find . -type f -name '._*' -delete"
   },
   "dependencies": {
+    "@react-native-community/slider": "^4.5.5",
     "expo": "~52.0.28",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
