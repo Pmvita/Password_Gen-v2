@@ -22,7 +22,7 @@ A modern and secure password generator built with React Native and Expo. Generat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator-app.git
+git clone https://github.com/Pmvita/Password_Gen-v2.git
 ```
 
 2. Install dependencies:
